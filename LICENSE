@@ -1,4 +1,18 @@
-                    GNU GENERAL PUBLIC LICENSE
+      Personal photographs, CV documents, certificates, and all
+     files in public/assets/pdf/ are excluded from that license.
+     No permission to reuse these materials is granted, except
+      where permitted by law. Otherwise, permission from the
+                relevant rights holder is required.
+      
+         Third-party materials retain their original licenses.
+     The Marvin Visions font in src/assets/fonts/ is not covered
+      by this project’s GPL license and remains subject to its
+                         own license terms.
+
+       Linked project screenshots and previews are not covered
+     by this project’s GPL license; their respective terms apply.
+
+                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
